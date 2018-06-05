@@ -1,0 +1,9 @@
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\bin\Debug\VolumeCalculationViewModel.dll
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\bin\Debug\VolumeCalculationViewModel.pdb
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\bin\Debug\Utils.dll
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\bin\Debug\VolumeCalculationModel.dll
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\bin\Debug\Utils.pdb
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\bin\Debug\VolumeCalculationModel.pdb
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\obj\Debug\VolumeCalculationViewModel.csprojResolveAssemblyReference.cache
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\obj\Debug\VolumeCalculationViewModel.dll
+C:\Users\gisa9557\Documents\Visual Studio 2015\Projects\VolumeCalculation_Giribabu_Sannapaneni\VolumeCalculationViewModel\obj\Debug\VolumeCalculationViewModel.pdb
